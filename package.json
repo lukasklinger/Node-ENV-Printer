@@ -1,0 +1,22 @@
+{
+  "name": "node-env-printer",
+  "version": "1.0.0",
+  "description": "Prints all environment variables to the console. Nothing more to say, really...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasklinger/Node-ENV-Printer.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "lukasklinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukasklinger/Node-ENV-Printer/issues"
+  },
+  "homepage": "https://github.com/lukasklinger/Node-ENV-Printer#readme"
+}
